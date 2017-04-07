@@ -1,0 +1,1 @@
+"./Src/C6747.obj" "./Src/C6747_gpio.obj" "./Src/C6747_i2c.obj" "./Src/C6747_init.obj" "./Src/C6747_uart.obj" "./Src/led.obj" "./Src/main.obj" "./Src/rtc_test.obj" "./Src/uart_test.obj" "../C6747.cmd" "../Lib/rts6740_elf.lib" "../Lib/rts6740e_elf.lib" 
